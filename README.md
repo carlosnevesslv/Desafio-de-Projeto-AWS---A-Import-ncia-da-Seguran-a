@@ -1,4 +1,5 @@
 # RELATÓRIO DE IMPLEMENTAÇÃO DE MEDIDAS DE SEGURANÇA
+
 Data: 24 de fevereiro de 2026
 Empresa: AURORA
 Responsável: Carlos Henrique
